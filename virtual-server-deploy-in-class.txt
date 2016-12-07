@@ -1,0 +1,13 @@
+kmancusi 512 MB / 20 GB Disk / NYC3 - Ubuntu 16.04.1 x64    
+104.236.123.240 Copy    10 hours ago    
+root pass: 3686bed96302e019 === THIS IS OLD
+
+
+Deploy to digital ocean stuff:
+	•	ssh root@104.236.123.240
+	•	type ‘yes’
+	•	enter pw => new pw generated (zcr@yb^DE5Uq)
+	
+sudo access pw: SPeRAcETEnbo
+
+created database (in this case): prestige_worldwide_production
